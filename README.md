@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi! I'm Nicolas Pellerin, a software engineer from France ;)
 
-<!--
-**NicolasPllr1/NicolasPllr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've studied maths/physics, and now I enjoy programming a lot!
 
-Here are some ideas to get you started:
+My interests are quite diverse, spanning traditional software engineering,
+modern machine learning and nlp, but also lower-level intricacies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently:
+
+- an [interpreter](NicolasPllr1/rox) (Rust)
+- a (forwarding-)DNS [server](mini-dns-server) (Rust)
+- an HTTP/1.1 [server](mini-http-server) (Rust)
+- a tiny sqlite [engine](NicolasPllr1/codecrafters-sqlite-rust) (_wip_) (Rust)
+
+As you can see, I have been using Rust for _all_ my side projects. However I'm
+using Python daily at work and love this language as well.
+
+This led me to contribute to my favourite open-source projects. In particular, I
+love projects with interesting and fruitful Rust/Python interop.
+
+My goal is to continue this oss work which I enjoy a lot! You can expect more
+contributions coming soon:
+
+**Pydantic**
+
+- My first ever PR to oss: pydantic/pydantic-core#1791
+- My first ever _merged_ PR to oss: pydantic/pydantic-core#1799
+
+**Instructor**
+
+- I wrote an [issue](567-labs/instructor#1837) and then a
+  [patch](567-labs/instructor#1836) (merged) related to _bad_ JSON parsing
