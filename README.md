@@ -7,10 +7,13 @@ modern machine learning and nlp, but also lower-level intricacies.
 
 Recently:
 
-- an [interpreter](NicolasPllr1/rox) (Rust)
-- a (forwarding-)DNS [server](mini-dns-server) (Rust)
-- an HTTP/1.1 [server](mini-http-server) (Rust)
-- a tiny sqlite [engine](NicolasPllr1/codecrafters-sqlite-rust) (_wip_) (Rust)
+- an [interpreter](https://github.com/NicolasPllr1/rox) (Rust)
+- a (forwarding-)DNS [server](https://github.com/NicolasPllr1/mini-dns-server)
+  (Rust)
+- an HTTP/1.1 [server](https://github.com/NicolasPllr1/mini-http-server) (Rust)
+- a tiny sqlite
+  [engine](https://github.com/NicolasPllr1/codecrafters-sqlite-rust) (_wip_)
+  (Rust)
 
 As you can see, I have been using Rust for _all_ my side projects. However I'm
 using Python daily at work and love this language as well.
@@ -28,5 +31,6 @@ contributions coming soon:
 
 **Instructor**
 
-- I wrote an [issue](567-labs/instructor#1837) and then a
-  [patch](567-labs/instructor#1836) (merged) related to _bad_ JSON parsing
+- I wrote an [issue](https://github.com/567-labs/instructor/issues/1837) and a
+  [patch](https://github.com/567-labs/instructor/issues/1836) related to _bad_
+  JSON parsing
