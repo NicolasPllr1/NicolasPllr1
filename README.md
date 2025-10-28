@@ -8,12 +8,18 @@ modern machine learning and nlp, but also lower-level intricacies.
 Recently:
 
 - an [interpreter](https://github.com/NicolasPllr1/rox) (Rust)
+
 - a (forwarding-)DNS [server](https://github.com/NicolasPllr1/mini-dns-server)
   (Rust)
+
 - an HTTP/1.1 [server](https://github.com/NicolasPllr1/mini-http-server) (Rust)
+
 - a tiny sqlite
   [engine](https://github.com/NicolasPllr1/codecrafters-sqlite-rust) (_wip_)
   (Rust)
+
+- Also, a [personal website](https://nicolaspllr1.github.io/) along with my
+  [first articles](https://nicolaspllr1.github.io/blog.html)
 
 As you can see, I have been using Rust for _all_ my side projects. However I'm
 using Python daily at work and love this language as well.
