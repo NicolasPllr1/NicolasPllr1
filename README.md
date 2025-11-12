@@ -28,7 +28,8 @@ This led me to contribute to my favourite open-source projects. In particular, I
 love projects with interesting and fruitful Rust/Python interop.
 
 My goal is to continue this oss work which I enjoy a lot! You can expect more
-contributions coming soon:
+contributions coming soon, especially as I'll be joining the [Recurse Center](https://www.recurse.com/)
+in January:
 
 **Pydantic**
 
