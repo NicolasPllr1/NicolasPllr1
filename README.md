@@ -1,6 +1,7 @@
-Hi! I'm Nicolas, a software engineer from France ;)
+# Hi! I'm Nicolas
 
-I've studied maths/physics, and now I enjoy programming a lot!
+I'm a software engineer from France ;) I've studied maths/physics, and now I
+enjoy programming a lot!
 
 My interests are quite diverse, spanning traditional software engineering,
 modern machine learning and nlp, but also lower-level intricacies.
