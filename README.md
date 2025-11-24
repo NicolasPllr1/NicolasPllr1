@@ -1,40 +1,41 @@
-Hi! I'm Nicolas Pellerin, a software engineer from France ;)
+# Hi, I'm Nicolas
+
+I'm a software engineer from France ;)
 
 I've studied maths/physics, and now I enjoy programming a lot!
 
 My interests are quite diverse, spanning traditional software engineering,
 modern machine learning and nlp, but also lower-level intricacies.
 
-Recently:
+This year, I've worked on several Rust projects: an
+[interpreter](https://github.com/NicolasPllr1/rox), a (forwarding-)DNS
+[server](https://github.com/NicolasPllr1/mini-dns-server), an HTTP/1.1
+[server](https://github.com/NicolasPllr1/mini-http-server), and lastly a tiny
+sqlite [engine](https://github.com/NicolasPllr1/codecrafters-sqlite-rust)
+(_wip_)
 
-- an [interpreter](https://github.com/NicolasPllr1/rox) (Rust)
+I also started my [personal website](https://nicolaspllr1.github.io/) and posted
+my [first articles](https://nicolaspllr1.github.io/blog.html) there.
 
-- a (forwarding-)DNS [server](https://github.com/NicolasPllr1/mini-dns-server)
-  (Rust)
-
-- an HTTP/1.1 [server](https://github.com/NicolasPllr1/mini-http-server) (Rust)
-
-- a tiny sqlite
-  [engine](https://github.com/NicolasPllr1/codecrafters-sqlite-rust) (_wip_)
-  (Rust)
-
-- Also, a [personal website](https://nicolaspllr1.github.io/) along with my
-  [first articles](https://nicolaspllr1.github.io/blog.html)
-
-As you can see, I have been using Rust for _all_ my side projects. However I'm
-using Python daily at work and love this language as well.
+I've been using Rust for nearly all my side projects and enjoying this new
+language a lot. However I'm using Python daily at work and love this language as
+well.
 
 This led me to contribute to my favourite open-source projects. In particular, I
 love projects with interesting and fruitful Rust/Python interop.
 
 My goal is to continue this oss work which I enjoy a lot! You can expect more
-contributions coming soon, especially as I'll be joining the [Recurse Center](https://www.recurse.com/)
-in January:
+contributions coming soon, especially as I'll be joining the
+[Recurse Center](https://www.recurse.com/) in January:
 
 **Pydantic**
 
 - My first ever PR to oss: pydantic/pydantic-core#1791
 - My first ever _merged_ PR to oss: pydantic/pydantic-core#1799
+
+**Pydantic-AI**
+
+coming soon
 
 **Instructor**
 
