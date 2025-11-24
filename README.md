@@ -1,18 +1,17 @@
-# Hi, I'm Nicolas
-
-I'm a software engineer from France ;)
+Hi! I'm Nicolas, a software engineer from France ;)
 
 I've studied maths/physics, and now I enjoy programming a lot!
 
 My interests are quite diverse, spanning traditional software engineering,
 modern machine learning and nlp, but also lower-level intricacies.
 
-This year, I've worked on several Rust projects: an
-[interpreter](https://github.com/NicolasPllr1/rox), a (forwarding-)DNS
-[server](https://github.com/NicolasPllr1/mini-dns-server), an HTTP/1.1
-[server](https://github.com/NicolasPllr1/mini-http-server), and lastly a tiny
-sqlite [engine](https://github.com/NicolasPllr1/codecrafters-sqlite-rust)
-(_wip_)
+This year, I've worked on several Rust projects:
+
+- an [HTTP/1.1 server](https://github.com/NicolasPllr1/mini-http-server), a
+  (forwarding-)[DNS server](https://github.com/NicolasPllr1/mini-dns-server)
+- an [interpreter](https://github.com/NicolasPllr1/rox)
+- and lastly a tiny sqlite
+  [engine](https://github.com/NicolasPllr1/codecrafters-sqlite-rust) (_wip_)
 
 I also started my [personal website](https://nicolaspllr1.github.io/) and posted
 my [first articles](https://nicolaspllr1.github.io/blog.html) there.
@@ -21,8 +20,8 @@ I've been using Rust for nearly all my side projects and enjoying this new
 language a lot. However I'm using Python daily at work and love this language as
 well.
 
-This led me to contribute to my favourite open-source projects. In particular, I
-love projects with interesting and fruitful Rust/Python interop.
+All this led me to contribute to my favourite open-source projects. In
+particular, I love projects with interesting and fruitful Rust/Python interop.
 
 My goal is to continue this oss work which I enjoy a lot! You can expect more
 contributions coming soon, especially as I'll be joining the
