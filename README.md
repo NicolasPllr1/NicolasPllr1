@@ -6,6 +6,8 @@ enjoy programming a lot!
 My interests are quite diverse, spanning traditional software engineering,
 modern machine learning and nlp, but also lower-level intricacies.
 
+## Projects
+
 This year, I've worked on several Rust projects:
 
 - an [HTTP/1.1 server](https://github.com/NicolasPllr1/mini-http-server), a
@@ -21,6 +23,8 @@ my [first articles](https://nicolaspllr1.github.io/blog.html) there.
 I've been using Rust for nearly all my side projects and enjoying this new
 language a lot. However I'm using Python daily at work and love this language as
 well.
+
+## Open-source
 
 Recently, I started contributing to my favourite open-source projects. In
 particular, I love projects with interesting and fruitful Rust/Python interop.
