@@ -13,6 +13,7 @@ This year, I've worked on several Rust projects:
 - an [HTTP/1.1 server](https://github.com/NicolasPllr1/mini-http-server), a
   (forwarding-)[DNS server](https://github.com/NicolasPllr1/mini-dns-server)
 - a tree-walk [interpreter](https://github.com/NicolasPllr1/rox)
+- a keywords [search engine](https://github.com/NicolasPllr1/kwsearch)
 
 I also started my [personal website](https://nicolaspllr1.github.io/) and posted
 my [first articles](https://nicolaspllr1.github.io/blog.html) there.
