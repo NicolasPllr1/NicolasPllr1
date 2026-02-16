@@ -18,7 +18,7 @@ Over the past 2 years, I've worked on several projects:
   of the things I did while at [RC](https://www.recurse.com/about))
 
 I also started writting my [personal website](https://nicolaspllr1.github.io/)
-where I posted my first [poasts](https://nicolaspllr1.github.io/blog.html).
+where you can read my first [poasts](https://nicolaspllr1.github.io/blog.html).
 
 I've been using Rust for nearly all my side projects and enjoying this new
 language a lot. However I'm using Python daily at work and love this language as
