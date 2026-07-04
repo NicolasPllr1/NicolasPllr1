@@ -30,7 +30,7 @@ Recently, I was able to contribute to some of my favourite open-source projects.
 In particular, I'm interested in projects with Rust / Python interop.
 
 - **Pydantic:** I improved error messages for
-  [validation](https://github.com/pydantic/pydantic-core/pull/179) and
+  [validation](https://github.com/pydantic/pydantic-core/pull/1791) and
   [serialization](https://github.com/pydantic/pydantic-core/pull/1799) (Rust /
   Python interop).
 
